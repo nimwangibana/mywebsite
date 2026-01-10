@@ -600,6 +600,7 @@ footer .text span a:hover {
     }
 
     .main-container .image {
+       z-index: -1;
         width: 50%;
         height: 60%;
     }
