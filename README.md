@@ -1,14 +1,14 @@
-# ANDRE'S WEBSITE
+# Philip'S WEBSITE
 
 #### Video Demo: https://youtu.be/7-aQXsQF2DQ
 
 #### Description:
 
-Welcome to Andre's Website, my personal online portfolio where I showcase my skills, projects, and professional interests in the field of Information Technology (IT). This site was designed to serve as both an introduction to my work and a digital platform to connect with other professionals, potential collaborators, and employers. It also allows me to practice and demonstrate my skills in web development, including HTML, CSS, and JavaScript.
+Welcome to Philip's Website, my personal online portfolio where I showcase my skills, projects, and professional interests in the field of Information Technology (IT). This site was designed to serve as both an introduction to my work and a digital platform to connect with other professionals, potential collaborators, and employers. It also allows me to practice and demonstrate my skills in web development, including HTML, CSS, and JavaScript.
 
 The website's purpose is to offer an easy-to-navigate experience for anyone interested in learning more about who I am and what I do. It serves as a digital resume and portfolio, providing an overview of my abilities, my technical knowledge, and my aspirations in the IT field. The clean and simple design ensures that visitors can quickly find relevant information about me, my work, and how to contact me.
 
-Each page is carefully structured with a user-centric approach, where I aimed to balance both functionality and aesthetic. My goal was to create a site that not only looks good but also works efficiently and seamlessly across different devices. Whether you’re browsing from a desktop, tablet, or mobile phone, the website is designed to provide an optimal viewing experience. You can view the live website at: https://andre2004-code.github.io/my-website/
+Each page is carefully structured with a user-centric approach, where I aimed to balance both functionality and aesthetic. My goal was to create a site that not only looks good but also works efficiently and seamlessly across different devices. Whether you’re browsing from a desktop, tablet, or mobile phone, the website is designed to provide an optimal viewing experience. You can view the live website at: https://nimwangibana.github.io/mywebsite/
 
 As an aspiring IT professional, this website also acts as a way for me to demonstrate my technical skills and commitment to continuous learning in the field of web development. It is built with the foundational tools of front-end development: HTML, CSS, and JavaScript. These technologies helped me construct and design the site while keeping it lightweight, accessible, and responsive.
 
